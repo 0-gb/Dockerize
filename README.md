@@ -7,4 +7,4 @@ Apart from the libraries, what will also generally need attention is which file 
 
 ## Example
 
-There is a sample in the DokerizerSample folder. Which is ran by running the ```main.py``` python code, specifying the DokerizerSample folder as the used folder, and specifying an arbitrary solution name. After running, there Dockerfile will be appropriately updated. The Docker is then built and ran by running "the build_and_run.cmd". If everything worked correctly the cmd should print ```[0 1 2 3 4]```.
+There is a sample in the DokerizerSample folder. Which is ran by running the ```main.py``` python code, specifying the DokerizerSample folder as the used folder, and specifying an arbitrary solution name. After running, there Dockerfile will be appropriately updated. The Docker is then built and ran by running the "build_and_run.cmd". If everything worked correctly the cmd should print ```[0 1 2 3 4]```.
